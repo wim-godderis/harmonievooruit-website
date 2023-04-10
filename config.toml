@@ -1,0 +1,4 @@
+baseURL = 'http://harmonievooruit.be/'
+languageCode = 'nl-be'
+title = 'Koninklijk Harmonieorkest Vooruit Harelbeke'
+theme = 'ananke'
